@@ -21,4 +21,4 @@ Ao longo do projeto, priorizei a aplicação de boas práticas de programação,
 ## Conclusão
 Este projeto foi uma oportunidade valiosa para consolidar conhecimentos em desenvolvimento front-end moderno, desde a configuração do ambiente com Vite até a implementação de funcionalidades avançadas com React Hooks. A experiência adquirida no consumo de APIs, gerenciamento de estado e aplicação de boas práticas de código foi fundamental para o meu crescimento como desenvolvedor, e estou animado para aplicar esses conceitos em projetos futuros.
 
-Sinta-se à vontade para explorar o código, sugerir melhorias ou contribuir para o projeto! 😊
+Sinta-se à vontade para explorar o código, sugerir melhorias ou contribuir para o projeto!  😊

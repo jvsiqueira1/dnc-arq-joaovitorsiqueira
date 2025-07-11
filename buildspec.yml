@@ -15,8 +15,8 @@ phases:
   post_build:
     commands:
       - echo Build completed. Copying files on S3...
-      - awp cp dist s3://dnc-frontend-jvs/ --recursive
-      
+      - aws s3 cp dist s3://dnc-frontend-jvs/ --recursive
+
 artifacts:
     files:
       - '**/*'
